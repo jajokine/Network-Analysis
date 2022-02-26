@@ -25,7 +25,7 @@ The aim was to analyze the changes in the network structure and to survey the re
   
 The second dataset, that cannot publicly be shared unfortunately, consists of individuals who were arrested in Quebec between 2003 and 2010. The goal was to construct and analyze the network where some of the individuals have acted by themselves and some others with other individuals. 
   
-The statistical application of the different methods and the code for the project was made with Jupyter Notebook which also includes parts from the written report that was part of the projet.
+The statistical application of the different methods and the code for the project was made with Jupyter Notebook which also includes analysis from the written report that was part of the projet.
 
 
 
