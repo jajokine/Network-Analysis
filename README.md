@@ -20,10 +20,9 @@ The first dataset, which can be downloaded from the internet, consists of the CA
   
     - Phase 11    2 seizures      $1,300,000      12 kg of cocaine + 11 kg of cocaine
   
-The aim was to analyze the changes in the network structure and to survey the reaction and adaptation of the participants while they were subjected to an increasing number of distressing constraints. The research paper on the investigation can be found at: 
-(https://www.researchgate.net/publication/292304919_Modeling_Verdict_Outcomes_Using_Social_Network_Measures_The_Watergate_and_Caviar_Network_Cases).
+The aim was to analyze the changes in the network structure and to survey the reaction and adaptation of the participants while they were subjected to an increasing number of distressing constraints.
   
-The second dataset, that cannot publicly be shared unfortunately, consists of individuals who were arrested in Quebec between 2003 and 2010. The goal was to construct and analyze the network where some of the individuals have acted by themselves and some others with other individuals. 
+The second dataset, that cannot publicly be shared unfortunately, consists of a large number of individuals who were arrested in Quebec between 2003 and 2010. The goal was to use different techniques of graph theory to analyze the network where some of the individuals have commited crimes by themselves and some with other individuals. 
   
 The project dealt upon graph theory and the different methods for analyzing and visualizing networks. The application of the different methods and the code for the project was made with Jupyter Notebook which also includes analysis from the written report that was part of the projet.
 
