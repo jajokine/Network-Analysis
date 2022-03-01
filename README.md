@@ -26,5 +26,11 @@ The second dataset, that cannot publicly be shared unfortunately, consists of a 
   
 The project dealt upon graph theory and the different methods for analyzing and visualizing networks. The application of the different methods and the code for the project was made with Jupyter Notebook which also includes analysis from the written report that was part of the projet.
 
+## Access and Requirements
 
+The file project3.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+
+The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
+
+      pip install -r requirements.txt
 
