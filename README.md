@@ -28,7 +28,7 @@ The project dealt upon graph theory and the different methods for analyzing and 
 
 ## Access and Requirements
 
-The file project3.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+The file [project3.ipynb](https://github.com/jajokine/Network-Analysis/blob/main/project3.ipynb) is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
